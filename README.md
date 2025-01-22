@@ -3,6 +3,7 @@
 Example code for DX 601, Mathematical Foundations of Data Science.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/bu-omds/dx601-examples?quickstart=1)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/bu-cds-omds/dx601-examples)
 
 ## Data sources
 
